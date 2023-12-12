@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Dastan Dulatbekov</h1>
+<h3 align="center">frontend developer from Kyrgyzstan</h3>
+
 * ✉️  You can contact me at [dastandulatbekuulu@gmail.com](mailto:dastandulatbekuulu@gmail.com)
 ### Skills
 <p align="left">
