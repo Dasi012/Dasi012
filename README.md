@@ -55,8 +55,8 @@
 <table>
   <tr>
     <td>
+         <img width='1400px'/>
      <p>
-      <img width='1400px'/>
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dasi012&theme=github_dark" alt="github-profile-summary-cards.vercel.app"/>
      </p>
     </td>
