@@ -54,27 +54,24 @@
 <table>
   <tr>
     <td>
-      <a href="http://www.github.com/DanielKBV"><img src="https://github-readme-stats.vercel.app/api?username=DanielKBV&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DanielKBV's GitHub stats" /></a>
-    </td>
-    <td>
       <a href="https://github.com/DanielKBV" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielKBV&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
     </td>
   </tr>
 </table>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielKBV&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dasi012&theme=github_dark)
 
 <table>
   <tr>
     <td>
      <p>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielKBV&theme=github_dark" alt="github-profile-summary-cards.vercel.app" />
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dasi012&theme=github_dark" alt="github-profile-summary-cards.vercel.app" />
      </p>
     </td>
     <td>
      <p>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanielKBV&theme=github_dark" alt="github-profile-summary-cards.vercel.app" />
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dasi012&theme=github_dark" alt="github-profile-summary-cards.vercel.app" />
      </p>
     </td>
   </tr>
