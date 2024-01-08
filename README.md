@@ -27,7 +27,7 @@
       <a href="https://sass-lang.com" target="_blank" rel="noreferrer">  <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
 
-<h2 align="left">Connect with me:</h2>
+<h2>Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/dastandulatbekov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dastandulatbekov" height="30" width="40" /></a>
 <a href="https://instagram.com/du1atbekov_01_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="du1atbekov_01_" height="30" width="40" /></a>
@@ -36,13 +36,13 @@
 <h2> 🧰Tools I use<h2/>
 <p align='left'> 
 <a href="https://code.visualstudio.com/">
- <img src="https://skills.thijs.gg/icons?i=vscode" alt="DanielKBV's GitHub Tools I use" />
+ <img src="https://skills.thijs.gg/icons?i=vscode" alt="Dasi02's GitHub Tools I use" />
 </a>
 <a href="https://www.figma.com/ui-design-tool/">
- <img src="https://skills.thijs.gg/icons?i=figma" alt="DanielKBV's GitHub Tools I use" />
+ <img src="https://skills.thijs.gg/icons?i=figma" alt="Dasi02's GitHub Tools I use" />
 </a>
 <a href="https://firebase.google.com/">
- <img src="https://skills.thijs.gg/icons?i=firebase" alt="DanielKBV's GitHub Tools I use" />
+ <img src="https://skills.thijs.gg/icons?i=firebase" alt="Dasi02's GitHub Tools I use" />
 </a>
 </p>
 
