@@ -33,7 +33,7 @@
 <a href="https://instagram.com/du1atbekov_01_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="du1atbekov_01_" height="30" width="40" /></a>
 </p>
 <br/>
- ### 🧰Tools I use
+<h2> 🧰Tools I use<h2/>
 <p align='left'> 
 <a href="https://code.visualstudio.com/">
  <img src="https://skills.thijs.gg/icons?i=vscode" alt="DanielKBV's GitHub Tools I use" />
@@ -66,7 +66,9 @@
    </td>
  </tr>
 </table>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dasi012&theme=github_dark)
+
 <table >
   <tr>
     <td>
