@@ -28,7 +28,6 @@
 <a href="https://linkedin.com/in/dastandulatbekov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dastandulatbekov" height="30" width="40" /></a>
 <a href="https://instagram.com/du1atbekov_01_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="du1atbekov_01_" height="30" width="40" /></a>
 </p>
-<br/>
 <h2> 🧰Tools I use<h2/>
 <p align='left'> 
 <a href="https://code.visualstudio.com/">
