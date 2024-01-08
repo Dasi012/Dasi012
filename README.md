@@ -51,7 +51,7 @@
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dasi012&theme=github_dark)
-<table display:none >
+<table >
   <tr>
     <td>
      <p>
