@@ -5,13 +5,9 @@
 
  <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=1&pause=1000&center=true&repeat=false&width=510&height=60&lines=Dastan+Dulatbekov" alt="Typing SVG" /></a>
-</p>
-<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=100&center=true&width=510&lines=I+am+a+front-end+developer+from+Kyrgyzstan" alt="Typing SVG" /></a>
 </p>
-
 <h2>🪄 Technologies I use</h2>
-
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">  <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">  <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
