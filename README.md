@@ -25,7 +25,7 @@
 </p>
 
 <h2>Connect with me:</h2>
-<div align='left>
+<div align="center>
 <p align="left">
 <a href="https://linkedin.com/in/dastandulatbekov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dastandulatbekov" height="30" width="40" /></a>
 <a href="https://instagram.com/du1atbekov_01_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="du1atbekov_01_" height="30" width="40" /></a>
