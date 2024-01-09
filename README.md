@@ -13,6 +13,8 @@
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">  <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+ 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer">  <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">  <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -27,8 +29,8 @@
 <h2>Connect with me:</h2>
 <div align="center>
 <p align="left">
-<a href="https://linkedin.com/in/dastandulatbekov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dastandulatbekov" height="30" width="40" /></a>
-<a href="https://instagram.com/du1atbekov_01_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="du1atbekov_01_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dastandulatbekov" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dastandulatbekov" height="30" width="40" /></a>
+<a href="https://instagram.com/du1atbekov_01_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="du1atbekov_01_" height="30" width="40" /></a>
  <a href="https://web.telegram.org/a/#-1001518139662" target="_blank">
  <img  src="https://static-00.iconduck.com/assets.00/telegram-icon-2048x2048-l6ni6sux.png" width="40" height="40" alt="telegram"/> </a>
     <a href="https://vk.com/f1ll_zzz" target="_blank">
@@ -37,6 +39,9 @@
     <a href="https://dzen.ru/tehnomaniak" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
  </a>
+   <a href="https://t.me/tehnomaniak07" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a> 
 </p>
 </div>
 <h2> 🧰Tools I use<h2/>
@@ -89,3 +94,18 @@
     </td>
   </tr>
 <table/>
+
+<!-- ### 💻 Пройденные курсы:
+
+| Курсы                                                           | Дата              |
+| ----------------------------------------------------------------| :---------------: |
+| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
+| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
+| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
+| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
+| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
+| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
+| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
+| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+
+--- -->
