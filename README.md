@@ -30,6 +30,13 @@
 <a href="https://instagram.com/du1atbekov_01_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="du1atbekov_01_" height="30" width="40" /></a>
  <a href="https://web.telegram.org/a/#-1001518139662" target="_blank">
  <img align="center src="https://static-00.iconduck.com/assets.00/telegram-icon-2048x2048-l6ni6sux.png" width="40" height="40" alt="telegram"/> </a>
+    <a href="https://vk.com/f1ll_zzz" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+    <a href="https://dzen.ru/tehnomaniak" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
+    </a>
+
 </p>
 <h2> 🧰Tools I use<h2/>
 <p align='left'> 
