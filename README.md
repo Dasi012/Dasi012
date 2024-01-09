@@ -14,7 +14,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer">  <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">  <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -22,8 +22,8 @@
 <a href="https://mui.com/" target="_blank" rel="noreferrer">  <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  <img width="12" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="36" height="36"/> </a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">  <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer">  <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
- <a href="https://styled-components.com/" target="_blank">   <img width="36" / <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components"  height="36" /></a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer">  <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+ <a href="https://styled-components.com/" target="_blank">   <img width="36" /> <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components"  height="36" /></a>
 </p>
 
 <h2>Connect with me:</h2>
