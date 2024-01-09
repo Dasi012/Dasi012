@@ -8,7 +8,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=100&center=true&width=510&lines=I+am+a+front-end+developer+from+Kyrgyzstan" alt="Typing SVG" /></a>
 </p>
  <p>
-  :man_technologist: About me:
+ <h2>
+ :man_technologist: About me:
+ </h2> 
   <h4>
    
   I'm a beginner web developer. My journey in it began back in 2021 when I entered college, but I started doing it seriously in December 2022 and signed up for web development courses at Peaksoft House. During my studies, I had an internship for 3 months and have completed the Bilingual project. At the moment, my training on the course is completed and I am looking for a job, at the same time I became a mentor on the course and help beginners master web development!
