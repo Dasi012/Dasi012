@@ -30,18 +30,18 @@
 <h2>Connect with me:</h2>
 <div align="center>
 <p align="left">
-<a href="https://linkedin.com/in/dastandulatbekov" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dastandulatbekov" height="30" width="40" /></a>
-<a href="https://instagram.com/du1atbekov_01_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="du1atbekov_01_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dastandulatbekov" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dastandulatbekov" height="36" width="36" /></a>
+<a href="https://instagram.com/du1atbekov_01_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="du1atbekov_01_" height="36" width="36" /></a>
  <a href="https://web.telegram.org/a/#-1001518139662" target="_blank">
- <img  src="https://static-00.iconduck.com/assets.00/telegram-icon-2048x2048-l6ni6sux.png" width="40" height="40" alt="telegram"/> </a>
+ <img  src="https://static-00.iconduck.com/assets.00/telegram-icon-2048x2048-l6ni6sux.png" width="36" height="36" alt="telegram"/> </a>
     <a href="https://vk.com/f1ll_zzz" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="36" height="36" alt="VK Badge"/>
     </a>
     <a href="https://dzen.ru/tehnomaniak" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="36" height="36" alt="Zen Badge"/>
  </a>
    <a href="https://t.me/tehnomaniak07" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="36" height="36" alt="telegram group" />
     </a> 
 </p>
 </div>
