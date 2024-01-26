@@ -13,7 +13,7 @@
  </h2> 
   <h4>
    
-  I'm a beginner web developer. My journey in it began back in 2021 when I entered college, but I started doing it seriously in December 2022 and signed up for web development courses at Peaksoft House. During my studies, I had an internship for 3 months and have completed the Bilingual project. At the moment, my training on the course is completed and I am looking for a job, at the same time I became a mentor on the course and help beginners master web development!
+I am a web developer. My path to it began back in 2021, when I entered college, but I started doing it seriously in December 2022 and enrolled in a web development course at Peaksoft House. During my studies, I did an internship for 6 months and completed a bilingual project. At the moment, my training on the course has been completed and I am looking for a job, for one thing I became a mentor on the course and help beginners master web development!
 
 - :seedling: Completed Peaksoft House web development courses!
 
